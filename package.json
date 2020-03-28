@@ -1,0 +1,7 @@
+{
+  "name": "run-forest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andre Herculano <andresilveirah@gmail.com>",
+  "license": "MIT"
+}
